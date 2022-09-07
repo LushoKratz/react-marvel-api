@@ -5,7 +5,6 @@ import './App.css';
 import CharacterList from './Components/CharacterList';
 import Character from './Components/Character';
 import NotFound from './Components/NotFound';
-// https://gateway.marvel.com:443/v1/public/characters?ts=1&apikey=0763cbdd643117aa56bcd22afcb0a701&hash=888f185acba89a5db37e0cf1ba685980
 
 function App() {
 
